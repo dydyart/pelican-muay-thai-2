@@ -1,0 +1,8 @@
+# Fichiers temporaires d'extraction (affiches haute-résolution non utilisées sur le site)
+assets/img/tarif1_full.png
+assets/img/tarif2_full.png
+assets/img/tarif3_full.png
+
+# Système
+Thumbs.db
+.DS_Store
