@@ -391,6 +391,9 @@ h1,h2,h3,h4,.display{
 .foot-col a:hover{color:var(--gold);padding-left:6px}
 .foot-bottom{border-top:1px solid rgba(255,255,255,.1);margin-top:52px;padding:24px 0;text-align:center;font-size:13px;color:#79756f}
 .foot-bottom a{color:var(--gold)}
+.foot-bottom .credit strong,.foot-bottom .credit a{color:var(--gold);letter-spacing:.5px;font-weight:700}
+.foot-bottom .credit a{text-decoration:none}
+.foot-bottom .credit a:hover{text-decoration:underline}
 
 /* ---------- Lightbox / zoom ---------- */
 .zoomable{cursor:zoom-in}
